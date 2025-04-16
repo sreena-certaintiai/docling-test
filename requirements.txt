@@ -1,0 +1,4 @@
+transformers 
+torch
+docling_core
+Pillow
